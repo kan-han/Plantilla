@@ -1,0 +1,64 @@
+/*Primordial*/
+
+.nombre_y_logo_footer{
+    margin-bottom: 2rem;
+    font-size: 30px;
+}
+
+.nombre_y_logo_footer h1{
+    
+    font-size: 30px;
+}
+
+.pie_de_pagina{
+    background-color: rgb(3, 3, 41);
+    color: white;
+    text-align: center;
+    font-family: 'Readex Pro', serif ;
+    padding-top: 2rem;
+}
+
+.pie_de_pagina h4{
+    font-size: 14px;
+    
+}
+
+#tech-tech{
+    text-decoration: none;
+    color: rgb(165, 152, 176);
+}
+
+
+
+.danzel{
+    text-decoration: none;
+    color: rgb(199, 199, 255);
+    
+}
+
+.title-foot-item{
+    font-size: 20px;
+}
+
+.imagen-logo{
+    text-align: left;
+}
+
+.iconos-para-navegar{
+    text-align: center;
+}
+
+.iconos-para-navegar a{
+    text-decoration: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: rgb(0, 0, 73);
+    background-color: white;
+}
+
+.barra-de-navegacion{
+    position: sticky;
+}
+
+/*Primordial*/
+
